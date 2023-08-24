@@ -17,6 +17,9 @@
       },
       "api": {
         "sampleamplifyapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
